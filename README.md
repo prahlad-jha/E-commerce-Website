@@ -22,7 +22,7 @@ This is a fully responsive E-Commerce website built using **React.js**. The appl
 
 You can view the live demo of this project here:
 
-[Live Demo]((https://v-shopecommerceee.netlify.app/))
+[Live Demo](https://v-shopecommerceee.netlify.app/)
 
 ## Installation
 
